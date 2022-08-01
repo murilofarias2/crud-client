@@ -1,0 +1,20 @@
+.boxInput{
+    width: 100%;
+    
+    h3{
+        margin: 8px 0;
+        font-weight: 200;
+        color: #404040;
+        font-size: 12px;
+    }
+
+    .input{
+        border: none;
+        outline: none;
+        font-size: 16px;
+        font-weight: 500;
+        color: #232323;
+        border-bottom: 1px solid #b1b1b1b1;
+        width: 100%;
+    }
+}

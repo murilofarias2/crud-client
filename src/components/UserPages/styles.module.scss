@@ -1,0 +1,25 @@
+.pagesBox{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+    button{
+        padding: 7px 9px;
+        margin: 5px;
+        border-radius: 50%;
+        color: #428bca;
+        font-weight: 700;
+        background-color: #f7f6f6;
+        border:none ;
+        cursor: pointer;
+
+        &:disabled{
+            background-color:#2096F3;
+            color: white;
+            cursor:default;
+        }
+    }
+
+
+}

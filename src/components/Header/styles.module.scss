@@ -1,0 +1,17 @@
+.headerContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333333;
+
+    h1{
+        font-size: 40px;
+        font-weight: 200;
+    }
+
+    .techIcon{
+        height: 50px;
+        width: 50px;
+        margin-right:20px ;
+    }
+}
